@@ -1,0 +1,136 @@
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\ApplicationInsights.config
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\csc.exe
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\csc.exe.config
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\csc.rsp
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\csi.exe
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\csi.rsp
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\System.AppContext.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\vbc.exe
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\vbc.exe.config
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\vbc.rsp
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\empSample.dll.config
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\empSample.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\empSample.pdb
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Antlr3.Runtime.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.Web.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Newtonsoft.Json.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Helpers.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Mvc.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Optimization.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Razor.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.WebPages.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\WebGrease.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Helpers.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Mvc.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Optimization.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.Razor.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.WebPages.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Antlr3.Runtime.pdb
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Newtonsoft.Json.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\bin\Microsoft.AI.Web.xml
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\obj\Debug\empSample.csprojResolveAssemblyReference.cache
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\obj\Debug\empSample.dll
+C:\Users\asintha\Desktop\angulrSamples\empSample\empSample\obj\Debug\empSample.pdb
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\ApplicationInsights.config
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\csc.exe
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\csc.exe.config
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\csc.rsp
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\csi.exe
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\csi.rsp
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\System.AppContext.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\vbc.exe
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\vbc.exe.config
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\vbc.rsp
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\empSample.dll.config
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\empSample.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\empSample.pdb
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Antlr3.Runtime.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.Web.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Newtonsoft.Json.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Helpers.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Mvc.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Optimization.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Razor.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.WebPages.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\WebGrease.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Helpers.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Mvc.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Optimization.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.Razor.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.WebPages.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Antlr3.Runtime.pdb
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Newtonsoft.Json.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\bin\Microsoft.AI.Web.xml
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\obj\Debug\empSample.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\obj\Debug\empSample.dll
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\obj\Debug\empSample.pdb
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\obj\Debug\empSample.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Desktop\Sample_Table_Add_Remove Application AngularJs,Javascript,Html\empSample\empSample\obj\Debug\empSample.csproj.CopyComplete

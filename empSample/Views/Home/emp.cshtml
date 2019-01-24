@@ -1,0 +1,120 @@
+﻿
+@{
+    ViewBag.Title = "emp";
+}
+
+<html ng-app="MyFirstApp">
+<head>
+    <title>EmpManagemnt</title>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+    <script type="text/javascript">
+
+        MyFirstApp = angular.module('MyFirstApp', []);
+        MyFirstApp.controller('HomeController', function ($scope) {
+       // $scope is the binder part between javascript(controller) and html(view)//
+            
+            $scope.myData = [];           
+            $scope.addRow = function () { // this funtion add rows to the tabel //
+                $scope.myData.push({ 'name': $scope.name, 'age': $scope.age, 'contact': $scope.contact });
+                $scope.name = '';
+                $scope.age = '';
+                $scope.contact = '';
+            };
+
+            $scope.RemRow = function (name) { //this funtion removes the selected row//
+                
+                var Arr = eval($scope.myData);
+                for (var i = 0; i < Arr.length; i++) {
+                    if (Arr[i].name === name) {
+                        index = i;
+                        break;
+                    }
+                }
+                
+                $scope.myData.splice(index, 1);	// remove row
+            };
+
+            function selectRow() {  // this funtion selects the row.. with issues :( // 
+
+                var table = document.getElementById("tbl"), rIndex;
+                for (var i = 0; i < table.rows.length; i++) {
+                    table.rows[i].onclick = function () {
+
+                        rIndex = this.rowIndex;
+                        console.log(rIndex);
+
+                        document.getElementById("name").value = this.cells[0].innerHTML;
+                        document.getElementById("age").value = this.cells[1].innerHTML;
+                        document.getElementById("contact").value = this.cells[2].innerHTML;
+
+                    };
+                }
+            }
+            selectRow();
+
+          
+        });
+    </script>
+
+  
+</head>
+
+<body ng-controller="HomeController">
+     
+        <form class="clearfix" role="form" ng-submit="addRow()">
+            <br /><br /><br />
+
+            <label>Name</label>
+               
+                    <input type="text" class="form-control" name="name" ng-model="name" id="name" />
+              
+
+          
+                <label >Age</label>
+               
+                    <input type="text" class="form-control" name="age" ng-model="age" id="age" />
+           
+
+        
+                <label >Contact</label>
+               
+                    <input type="text" class="form-control" name="contact" ng-model="contact" id="contact"/>
+           
+
+            <br /><br />
+                    <input type="submit" value="save" class="btn btn-sm"  />
+                    <input type="submit" value="edit" class="btn btn-sm" ng-submit="editRow()" />                                     
+                    <br /><br /><br />          
+         
+        </form>
+  
+   
+    <table class="table" id="tbl">
+
+        <tr>
+            <th>Name</th>
+            <th>Age </th>
+            <th>Contact</th>
+        </tr>
+      
+        <tr ng-repeat="data in myData">
+            <td>
+                {{data.name}}
+            </td>
+            <td>
+                {{data.age}}
+            </td>
+            <td>
+                {{data.contact}}
+            </td>
+            <td>
+                <input type="button" value="Remove" class="btn btn-sm" ng-click="RemRow(data.name)" /> @* remove button*@
+            </td>
+          
+        </tr>
+    </table>
+   
+</body>
+
+</html>
